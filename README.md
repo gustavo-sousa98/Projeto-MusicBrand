@@ -1,6 +1,6 @@
-# 🎸 Projeto-MusicBrand 🎸
+# 🎸 Projeto MusicBrand 🎸
  ### Projeto Music Brand - Um PDV e administrador para uma loja de instrumentos musicais!
- 
+ ![Logo Loja - Sem Fundo Red](https://user-images.githubusercontent.com/83141051/193195004-4b11e337-7105-481d-be3b-2eed56baa95f.png)
 > Status: Finished
 
 #### Proposta: Um PDV de uma loja de instrumentos musicais, onde teria toda a parte de administração dentro do proprio projeto, como inclusão, atualização e exclusão de clientes, de produtos e fornecedores. Sendo necessario ter dois relatorios, um analitico e o outro sintetico para informar o administrador do PDV.
