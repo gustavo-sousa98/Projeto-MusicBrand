@@ -63,10 +63,10 @@
 
 ##### 💻 Neste sistema você pode:
 - Cadastrar/excluir/alterar Clientes ✔️
-- Registrar/Excluir/Alterar Produtos ✔️
+- Cadastrar/Excluir/Alterar Produtos ✔️
 - Cadastrar/excluir/alterar Fornecedores ✔️
-- Obtenha relatórios analíticos e sistemáticos ✔️
-- Faça uma venda ✔️
+- Obter relatórios analíticos e sintéticos ✔️
+- Realizar uma venda ✔️
 - Consultar estoque ✔️
 <br></br>
 ##### ⚠️ Implementações futuras:
@@ -74,14 +74,14 @@
 + Melhorias na interface;
 + Adicionar tela para inclusão de promoções;
 + Integrar um banco de dados MYSQL ou H2;
-+ Adicione um campo com a imagem do produto escolhido no momento da venda;
-+ Adicione imagens reais de produtos em estoque para conferência;
++ Adicionar um campo com a imagem do produto escolhido no momento da venda;
++ Adicionar imagens reais dos produtos em estoque para conferência;
 <br></br>
 
 ⚙️ Recursos adicionais:
- + Quando o(s) artigo(s) são vendidos, são automaticamente retirados do stock;
- + Caso não tenha mais o produto para ser vendido, aparecerá a mensagem "Produto fora de estoque", impossibilitando a venda;
- + ComboBox Dependente - Por exemplo: Selecionando os itens de sopro no ComboBox 1, no ComboBox 2 apenas irão aparecer instrumentos como flauta, clarinete, saxofone e etc, alterando o item principal irá alterar os itens secundários;
+ + Quando o(s) item(s) são vendidos, automaticamente são retirados do estoque;
+ + Caso não tenha mais o produto a ser vendido, aparecerá a mensagem "Produto sem estoque", impossibilitando a venda;
+ + ComboBox Dependente - Por exemplo: Selecionando os itens de sopro no ComboBox 1, no ComboBox 2 irá aparecer apenas instrumentos como flauta, clarinete, saxofone e etc, alterando o item principal irá alterar os itens secundários;
  + Atualização instantânea de cliente, produto ou fornecedor no banco de dados;
  
  <br></br>
@@ -89,7 +89,7 @@
 <table>
  <tr>
   <td>Java</td>
-  <td>DB remoto MYSQL</td>
+  <td>BD Remote MYSQL</td>
   <td>JDK</td>
   <td>IDE</td>
 </tr>
